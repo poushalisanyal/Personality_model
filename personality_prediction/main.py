@@ -1,1 +1,0 @@
-Model prediction using FastApi
